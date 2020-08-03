@@ -13,4 +13,8 @@ Implemented a few Ensemble Techniques on the dataset, code can be found in file 
 
 Performed hyperparameter tuning using RandomSearchCV, aode can be found in file 'Hyperparameter_Tuning_on_Titanic_Dataset'.
 
-Thankyou
+You can get the dataset by extracting 'titanic.zip'.
+
+'train_preprocessed' and 'test_preprocessed' were geterated after performing preprocessing and these preprocessed files are used in the next stages.
+
+Thankyou...
