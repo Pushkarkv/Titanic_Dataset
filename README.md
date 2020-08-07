@@ -1,4 +1,5 @@
 # Titanic_Dataset
+
 Binary Classification Competition on Kaggle named Titanic: Machine Learning from Disaster.
 
 I used Google Colab to run my jupyter notebooks.
@@ -11,7 +12,9 @@ Tried a few models on the dataset, code can be found in file 'Trying_out_differe
 
 Implemented a few Ensemble Techniques on the dataset, code can be found in file 'Ensemble_Methods_on_Titanic_Dataset'.
 
-Performed hyperparameter tuning using RandomSearchCV, aode can be found in file 'Hyperparameter_Tuning_on_Titanic_Dataset'.
+Performed hyperparameter tuning using RandomSearchCV, code can be found in file 'Hyperparameter_Tuning_on_Titanic_Dataset'.
+
+Final predictions are made using Hyperparameter tuned ensembles, code can be found in file 'Final_Prediction_using_Ensembles_on_Hyperparameter_Tuned_Models'.
 
 You can get the dataset by extracting 'titanic.zip'.
 
